@@ -1,5 +1,3 @@
-# cbnu_24 컴퓨터 비전
-
 #  Home Work
 
 ## 1번: 히스토그램 평탄화 (homework/1번.py)
