@@ -23,7 +23,9 @@
 ```bash
 pip install opencv-python numpy
 
-# Home Work
+
+
+#  Home Work
 
 
 ## 1번: 히스토그램 평탄화 (homework/1번.py)
