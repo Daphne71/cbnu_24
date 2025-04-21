@@ -11,7 +11,7 @@ Fall Detection and Activity Recognition Using Human Skeleton Features
   1. Alpha Pose를 통해 추출된 Skeleton 기반 json 형식 데이터 전처리 수행
   2. 다중 인물이 등장하는 경우, score 점수 가장 높은 것 제외하고 모두 제거
   3. 17개의 keypoints (x, y, confidence) 17x3 = 51차원 특징 벡터 구성
-  4. 데이터 라벨링 1~5, 11 - FALL 6~10 - NOT FALL
+  4. 데이터 라벨링 1 - 5, 11 : FALL 6 - 10 : NOT FALL
   5. 4가지 머신러닝을 통해 이진 분류 진행
 
 4가지 머신러닝 모델 적용
